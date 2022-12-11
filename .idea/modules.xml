@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tests/SmsAutoReply/SmsAutoReply.iml" filepath="$PROJECT_DIR$/tests/SmsAutoReply/SmsAutoReply.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-aosp-mms.iml" filepath="$PROJECT_DIR$/android-aosp-mms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apptests/apptests.iml" filepath="$PROJECT_DIR$/apptests/apptests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/tests.iml" filepath="$PROJECT_DIR$/tests/tests.iml" />
+    </modules>
+  </component>
+</project>
